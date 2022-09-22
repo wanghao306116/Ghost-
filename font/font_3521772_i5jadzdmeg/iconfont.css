@@ -1,0 +1,19 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 3521772 */
+  src: url('iconfont.woff2?t=1657776303882') format('woff2'),
+       url('iconfont.woff?t=1657776303882') format('woff'),
+       url('iconfont.ttf?t=1657776303882') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-24gl-folderOpen:before {
+  content: "\eabe";
+}
+

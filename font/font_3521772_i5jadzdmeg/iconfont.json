@@ -1,0 +1,16 @@
+{
+  "id": "3521772",
+  "name": "Ghost",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "7594806",
+      "name": "24gl-folderOpen",
+      "font_class": "24gl-folderOpen",
+      "unicode": "eabe",
+      "unicode_decimal": 60094
+    }
+  ]
+}
